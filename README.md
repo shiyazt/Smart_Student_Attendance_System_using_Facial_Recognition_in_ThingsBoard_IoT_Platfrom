@@ -1,1 +1,1 @@
-# Smart_Student_Attendance_System_using_Facial_Recognition_in_ThingsBoard_IoT_Platfrom
+# Smart Student Attendance System using Facial Recognition in ThingsBoard IoT Platfrom
