@@ -1,4 +1,5 @@
 # Smart Student Attendance System using Facial Recognition in ThingsBoard IoT Platfrom
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Smart Student Attendance System using Facial Recognition in ThingsBoard IoT Platform
 
