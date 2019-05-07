@@ -1,3 +1,8 @@
+"""
+Date : 06 May 2019
+Author : Shiyaz T
+Reference : https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+"""
 import pickle
 import cv2
 import os
